@@ -17,6 +17,7 @@ using Windows.UI.Xaml.Navigation;
 //Night Babe - Secret
 //What a wonderful person.
 //She has to move in with him now
+//Bought her a new t-shirt... Remind her of me each time she thinks of it
 
 namespace HelloWorld
 {
