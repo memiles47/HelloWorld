@@ -19,6 +19,7 @@ using Windows.UI.Xaml.Navigation;
 //The application compiles good and runs but design view still does not work
 //Something happened last night. Angie wants a divorce NOW and move out NOW. Well honey you have taken all
 //of my expendable cash....
+//I don't know how to get ahold of her...
 namespace HelloWorld
 {
     /// <summary>
