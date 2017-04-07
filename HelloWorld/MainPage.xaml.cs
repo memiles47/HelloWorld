@@ -15,11 +15,7 @@ using Windows.UI.Xaml.Navigation;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 //Night Babe - Secret
-//I missed her a lot this weekend. I know she sent me a message on Saturday but I neglected to reply. Stupid.
-//The application compiles good and runs but design view still does not work
-//Something happened last night. Angie wants a divorce NOW and move out NOW. Well honey you have taken all
-//of my expendable cash....
-//I don't know how to get ahold of her...
+//She called me last night... :)
 namespace HelloWorld
 {
     /// <summary>
