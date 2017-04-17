@@ -15,8 +15,6 @@ using Windows.UI.Xaml.Navigation;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 //Night Babe - Secret
-//Bad weekend but my fault. Time will tell if I can fix this.
-//I just hope she cooperates.
 namespace HelloWorld
 {
     /// <summary>
