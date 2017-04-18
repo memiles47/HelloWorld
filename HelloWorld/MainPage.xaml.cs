@@ -15,6 +15,8 @@ using Windows.UI.Xaml.Navigation;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 //Night Babe - Secret
+//She bought a new alternator yesterday and is having it installed today. I thought it was
+//expensive but she actually is having everything done on the low end of the average.
 namespace HelloWorld
 {
     /// <summary>
