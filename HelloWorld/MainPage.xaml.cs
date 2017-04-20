@@ -15,9 +15,7 @@ using Windows.UI.Xaml.Navigation;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 //Night Babe - Secret
-
-//Time for work. Angie did not answer me at all yesterday. What is up with that.
-//Probably just in a bad mood and things are not going her way.
+//She just has a lot on her mind.
 namespace HelloWorld
 {
     /// <summary>
