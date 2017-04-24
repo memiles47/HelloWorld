@@ -15,6 +15,8 @@ using Windows.UI.Xaml.Navigation;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 //Night Babe - Secret
+//Really bizarre message from Angie. Part of it said 'You have to text my husband'. That is not
+//going to happen, EVER.
 namespace HelloWorld
 {
     /// <summary>
