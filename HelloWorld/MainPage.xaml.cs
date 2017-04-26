@@ -15,8 +15,8 @@ using Windows.UI.Xaml.Navigation;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 //Night Babe - Secret
-//I will just say we were on the phone last night for an hour and 36 minutes.
-//We have not done that in years.
+
+//No contact from her at all yesterday. I really don't like that.
 namespace HelloWorld
 {
     /// <summary>
